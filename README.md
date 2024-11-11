@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arun106
-- 👀 I’m interested in improving skills in Automation 
-- 🌱 I’m currently learning different automation test framework 
-- 💞️ I’m looking to collaborate on AI driven test menthodology projects
+- 👀 I’m interested in improving skills in Automation.
+- 🌱 I’m currently learning automation test frameworks for Hardware In Loop.
+- 💞️ I’m looking to collaborate in innovative problem-solving for a software product to market with faster validation using AI automation plugins.
 - 📫 How to reach me : arunbelursan1995@gmail.com
 
 <!---
